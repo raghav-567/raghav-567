@@ -25,6 +25,7 @@ jobs:
           github_user_name: raghav-567
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
