@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-567&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-two-36.vercel.app/api?username=raghav-567&show_icons=true&theme=dracula&include_all_commits=true" height="165"/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav-567&layout=compact&theme=dracula&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats-sigma-two-36.vercel.app/api/top-langs/?username=raghav-567&layout=compact&theme=dracula&langs_count=6" height="165"/>
 </div>
 
 ###
